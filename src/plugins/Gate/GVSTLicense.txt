@@ -1,0 +1,24 @@
+License
+
+* GVST plug-ins are provided to the user at no cost. While
+  every GVST plug-in is tested to the best of the developer's
+  ability, no warranty or guarantee is offered to the end user.
+
+* No suggestions made by the developer or his representatives
+  are to be taken as an implied warranty or guarantee.
+
+* These plug-ins may only be distributed by the official GVST
+  website, or by parties explicitly given permission by the
+  developer.
+
+* You are free to use GVST plug-ins in commercial applications.
+  The plug-ins are owned and controlled by the developer -
+  anything you make with them is all yours.
+
+* GVST plug-ins are freeware, meaning you are never under any
+  obligation to pay for them! However, should you wish to help
+  support continued development of GVST software, you can
+  donate through the GVST website.
+
+Kind regards, Graham (GVST)
+https://www.gvst.co.uk/
