@@ -83,17 +83,17 @@
 >[!tip]
 >>GGate
 >>- Threshold: -36db
->>- Attack: 5ms
->>- Fade: 1.00s
+>>- Attack: 10ms
+>>- Fade: 0.50s
 >
 >>RNNoise
->>- VAD Threshold: 0
+>>- VAD Threshold: 60
 >>- VAD Grace Period: 20
 >>- Retroactive VAD Grace Period: 1
 >
 >>LoudMax
->>- Threshold: -16db
->>- Out: 0db
+>>- Threshold: -18.1db
+>>- Out: -6.1db
 >
 >>Мой микрофон
 >> Fifine A6V (2022г)
