@@ -24,9 +24,9 @@
 >- [`src/plugins`](https://github.com/N3M1X10/VST/blob/master/src/plugins)
 >
 >Либо качаем актуальные версии плагинов отсюда:
+>- [RNNoise (noise-suppression-for-voice)](https://github.com/werman/noise-suppression-for-voice/releases)
 >- [GGate](https://gvst.uk/Downloads/GGate)
 >- [LoudMax](https://loudmax.blogspot.com)
->- [RNNoise (noise-suppression-for-voice)](https://github.com/werman/noise-suppression-for-voice/releases)
 
 - Примечание: VST плагины (файлы `*.dll`) обычно размещают в папке с программой: `C:\Program Files\EqualizerAPO\VSTPlugins\`
 
@@ -35,10 +35,11 @@
 > 1. Запускаем `Editor.exe`
 > 2. В открывшемся стандартном конфиге - удаляем все имеющиеся улучшения (понажимать минусы или `Ctrl+A`, `Del`)
 > 3. Добавляем свои: Жмём `+` > `Plugins` > `VSTPlugins` 
->> - Гейт (`GGate.dll`)
 >> - Шумоподавитель RNNoise (`rnnoise_***.dll`, где <\*\*\*> - сколько каналов у вашего микрофона: `mono` - однополосный, `stereo` - стереополосный)
+>> - Гейт (`GGate.dll`)
 >> - Компрессор LoudMax (`LoudMax64.dll`) для соответствующей разрядности системы
 > - Должно получиться 3 плашки с плагинами
+>   - ВАЖНО чтобы порядок плагинов соблюдался: `Шумодав` > `Гейт` > `Компрессор`
 
 
 4. Настраиваем работу плагинов как вам угодно, под ваши уши, сидя с мониторингом (слушаем себя)
